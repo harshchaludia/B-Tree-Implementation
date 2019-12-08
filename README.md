@@ -27,7 +27,7 @@ In this project, with the NaiveDelete() method, we deleted the record directly f
 
 1) Open putty,
 2) Put Authentication details,
-3) Access the "BplusTree" folder,
+3) Access the "btree_project_F191" folder,
 4) go to src>tests> & enter make command to compile the file with makefile.
 5) After this run the file using "make bttest" command. 
 6) Insert & delete records.
