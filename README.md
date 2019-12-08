@@ -1,4 +1,4 @@
-# Project Title
+# BPlus-Tree-Implementation
 
 In this project, we have implemented the insert and delete functions for B+ tree. The insert function implemented is capable of dealing with overflows by splitting. The delete function on the other hand, is naïve delete and does not deal with merging i.e. it simply deletes the record from the tree. Thus, we have implemented the methods insert(), _insert() and NaiveDelete().
 
